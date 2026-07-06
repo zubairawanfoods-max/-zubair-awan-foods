@@ -177,4 +177,44 @@
 </a>
 
 </body>
-</html>
+</html> 
+# 🍔 Zubair Awan Foods
+
+Welcome to **Zubair Awan Foods** — a simple and modern restaurant website project.
+
+## 🌯 About Project
+This is a basic HTML/CSS website for a fast food restaurant that includes:
+- Burgers
+- Shawarma
+- Fries
+- Cold Drinks
+
+It is designed for learning and small business use.
+
+## 🚀 Features
+- Responsive design (mobile friendly)
+- Simple and clean UI
+- Menu section
+- About section
+- Contact information
+- WhatsApp order button
+
+## 🖥️ Technologies Used
+- HTML5
+- CSS3
+
+## 📸 Preview
+A simple restaurant landing page for online food ordering.
+
+## 📍 Business Idea
+This website can be used for:
+- Small food businesses
+- Home-based food shops
+- Online food ordering (via WhatsApp)
+
+## 📞 Contact
+For orders or inquiries, use WhatsApp button on website.
+
+---
+
+⭐ If you like this project, give it a star!
